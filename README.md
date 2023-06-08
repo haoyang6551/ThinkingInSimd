@@ -26,12 +26,14 @@ The third is [optimization](optimization/), which is TBD.
 
 In general, each section will feature a Google Benchmark to compare non-vectorized and vectorized versions of code. Fair warning in advance, this is about ways to push software optimization as far as possible, and to that end, all the AVX examples involve AVX-512 intrinsics. I know a lot of people don't have processors capable of using those instructions, so the example code won't run on those computers, but the essays can still be read and hopefully enjoyed.
 
+### paper
+SIMD Acceleration for HEVC Decoding
+Chi Ching Chi; Mauricio Alvarez-Mesa; Benjamin Bross; Ben Juurlink; Thomas Schierl
+All Authors
+Accelerating multimedia with enhanced microprocessors R.B. Lee
+
 
 ### Footnotes
 
 [^1]: https://www.realworldtech.com/forum/?threadid=209249&curpostid=209596
 
-### paper
-SIMD Acceleration for HEVC Decoding
-Chi Ching Chi; Mauricio Alvarez-Mesa; Benjamin Bross; Ben Juurlink; Thomas Schierl
-All Authors
