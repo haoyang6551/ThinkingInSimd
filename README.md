@@ -30,3 +30,8 @@ In general, each section will feature a Google Benchmark to compare non-vectoriz
 ### Footnotes
 
 [^1]: https://www.realworldtech.com/forum/?threadid=209249&curpostid=209596
+
+### paper
+SIMD Acceleration for HEVC Decoding
+Chi Ching Chi; Mauricio Alvarez-Mesa; Benjamin Bross; Ben Juurlink; Thomas Schierl
+All Authors
